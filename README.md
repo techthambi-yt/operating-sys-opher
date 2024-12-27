@@ -1,1 +1,3 @@
 # operating-sys-opher
+well this is my operating system repo where i will be storing all the lab-week stuffs coding and things in it...
+if you are in SIMATS engineering college feel free to download it and use it 
